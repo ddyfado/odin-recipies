@@ -17,8 +17,8 @@ button {
     color: white;
 }
 
-a {
-    background-color: black;
+div.text {
+    background-color: rgba(0, 0, 0, 0.75);
 }
 
 .wcbutton {
