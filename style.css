@@ -12,12 +12,15 @@ button {
 
 .wcbutton {
     background-image: url("./images/welsh_cakes.jpeg");
+    background-color: beige;
 }
 
 .cobutton {
     background-image: url("./images/omelette.jpg");
+    background-color: beige;
 }
 
 .fpbutton {
     background-image: url("./images/frozen_pizza.jpg");
+    background-color: beige;
 }
