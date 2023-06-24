@@ -1,7 +1,5 @@
-h1 {
-    text-align: center;
-}
-
-div {
+.title {
     border: 6px solid rgb(90,50,0);
+    background-color: rgba(172, 95, 0, 0.744);
+    text-align: center;
 }
