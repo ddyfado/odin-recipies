@@ -9,3 +9,15 @@ button {
     width: 32.8vw;
     height:80vh;
 }
+
+.wcbutton {
+    background-image: url("./images/welsh_cakes.jpeg");
+}
+
+.cobutton {
+    background-image: url("./images/omelette.jpg");
+}
+
+.fpbutton {
+    background-image: url("./images/frozen_pizza.jpg");
+}
