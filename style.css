@@ -17,6 +17,10 @@ button {
     color: white;
 }
 
+a {
+    background-color: black;
+}
+
 .wcbutton {
     background-image: url("./images/welsh_cakes.jpeg");
     background-size:contain;
