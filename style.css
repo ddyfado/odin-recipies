@@ -26,6 +26,8 @@ button {
     font-family: "Lucida Console", georgia, monospace;
     font-weight: bold;
     color: white;
+    background-size:contain;
+    background-color: beige;
 }
 
 div.text {
@@ -33,21 +35,15 @@ div.text {
 }
 
 .wcbutton {
-    background-image: url("./images/welsh_cakes.jpeg");
-    background-size:contain;
-    background-color: beige;
+    background-image: url("./images/welsh_cakes.jpeg");   
 }
 
 .cobutton {
-    background-image: url("./images/omelette.jpg");
-    background-size: contain;
-    background-color: beige;
+    background-image: url("./images/omelette.jpg");  
 }
 
 .fpbutton {
     background-image: url("./images/frozen_pizza.jpg");
-    background-size: contain;
-    background-color: beige;
 }
 
 .recipe {
