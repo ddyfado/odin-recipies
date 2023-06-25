@@ -51,6 +51,9 @@ div.text {
 }
 
 .recipe {
-    border: 6px solid hsl(49, 100%, 72%);
+    border: 6ßpx solid hsl(49, 100%, 72%);
     background-color: hsl(57, 97%, 89%);
+    width:33%;
+    margin-left: auto;
+    margin-right: auto;
 }
