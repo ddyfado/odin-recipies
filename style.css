@@ -30,6 +30,10 @@ div.text {
     background-color: beige;
 }
 
+div.hpbutton {
+    text-align: center;
+}
+
 .cobutton {
     background-image: url("./images/omelette.jpg");
     background-size: contain;
