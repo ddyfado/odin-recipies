@@ -50,3 +50,7 @@ div.text {
     background-color: beige;
 }
 
+.recipe {
+    border: 6px solid hsl(49, 100%, 72%);
+    background-color: hsl(57, 97%, 89%);
+}
