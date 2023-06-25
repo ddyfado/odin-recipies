@@ -5,6 +5,9 @@ body {
 
 p img {
     border: 4px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .title.homepage {
@@ -47,4 +50,3 @@ div.text {
     background-color: beige;
 }
 
-.wctitle {}
