@@ -1,5 +1,6 @@
 body {
     font-family: "Lucida Console", georgia, monospace;
+    background-color: beige;
 }
 
 .title.homepage {
@@ -28,10 +29,6 @@ div.text {
     background-image: url("./images/welsh_cakes.jpeg");
     background-size:contain;
     background-color: beige;
-}
-
-div.hpbutton {
-    text-align: center;
 }
 
 .cobutton {
