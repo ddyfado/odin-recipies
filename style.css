@@ -19,7 +19,7 @@ p img {
     text-align: center;
 }
 
-button {
+.button {
     width: 32vw;
     height:80vh;
     font-size: xx-large;
